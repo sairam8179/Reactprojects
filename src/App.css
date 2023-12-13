@@ -1,0 +1,20 @@
+table,th,td,tr{
+  border: 2px solid red;
+  border-collapse: collapse;
+}
+/* img{
+  height: 180px;
+  width: 180px;
+} */
+/* #styless{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  gap: 30px;
+  width: 300px;
+} */
+.one{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

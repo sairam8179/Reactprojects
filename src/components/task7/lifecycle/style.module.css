@@ -1,0 +1,9 @@
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 50px;
+    justify-content: space-evenly;
+    height: 450px;
+    overflow-y: scroll;
+}
